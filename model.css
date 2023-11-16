@@ -1,0 +1,70 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+ul{
+    padding-left: 52%;
+    background-color: white;
+    display: flex;
+}
+p{
+    
+    font-size: 70px;
+    color: pink;
+    padding-top: 0px;
+    padding-left: 490px;
+    margin-bottom: 0px;
+}
+li{
+    display: inline;
+    color:black;
+    padding: 10px;
+    font-weight: 50PX;
+    font-size: x-large;
+}
+li:hover{
+    color: rgb(234, 0, 255);
+    cursor: pointer;
+}
+.photo{
+    background-image: url(1595223.jpg);
+    background-size: cover;
+    background-position:top;
+    width: 1780px;
+    height: 800px;
+
+}
+ol{
+    display:inline;
+    display: flex;
+}
+.Model{
+    height: 7opx;
+}
+.pokemon{
+    float:left;
+    background-color:white;
+    padding: 10px;
+    
+}
+pre{
+    font-size: xx-large;
+    padding-left: 60px;
+    padding-top: 40px;
+    color:hotpink;
+}
+.pick p{
+    font-size: small;
+    padding-bottom: 20px;
+    padding-right: 50px;
+    margin-bottom: 0px;
+
+}
+address{
+    font-size: 30px;
+    color: brown;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}

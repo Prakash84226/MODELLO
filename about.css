@@ -1,0 +1,43 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.photo{
+    background-image: url(2267830.jpg);
+    background-position: top;
+    background-size: cover;
+    height:700px;
+    width: auto;
+}
+ul{
+    padding-left: 740px;
+}
+li{
+    display: inline;
+    padding: 10px;
+    color: white;
+    font-size:x-large;
+}
+li:hover{
+    color: aqua;
+    cursor: pointer;
+}
+p{
+    padding: 10px;
+    color: white;
+    padding-left: 550px;
+    font-size: x-large;
+    padding-top: 20px;
+}
+.para p{
+   padding-left: 700px;
+   font-size: x-large;
+   padding-top: 10px;
+}
+hr{
+    border-bottom: 20pt;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}

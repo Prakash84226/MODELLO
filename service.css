@@ -1,0 +1,63 @@
+.{
+    padding: 0%;
+    margin: 0%;
+}
+ul{
+    padding-left: 860px;
+}
+li{
+    display: inline;
+    padding: 10px;
+    font-size: large;
+}
+li:hover{
+    color: aqua;
+    cursor: pointer;
+}
+.con{
+    background-color: bisque;
+    height: 48vh;
+}
+.con p{
+    margin-left: 50%;
+    padding-right: 50px;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+}
+.con img{
+    float: left;
+    width: 600px;
+}
+.con1{
+    background-color: chocolate;
+    height: 58vh;
+}
+.con1 img{
+    float: right;
+    width: 550px;
+}
+.con1 p{
+    margin-right: 50%;
+    padding-left: 50px;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;                 
+}
+.con2{
+    background-color: blanchedalmond;
+    height: 59vh;
+}
+.con2 img{
+    float: left;
+    width: 620px;
+}
+.con2 p{
+    margin-left: 50%;
+    padding-right: 50px;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
